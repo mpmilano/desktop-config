@@ -1,0 +1,21 @@
+sys-libs/pam -debug
+dev-scheme/racket X backtrace cairo doc futures jit places plot threads
+x11-wm/xpra server
+dev-db/mysql -debug
+dev-lang/python sqlite tk
+>=media-libs/gd-2.0.35-r3 fontconfig
+>=app-text/docbook-sgml-utils-0.6.14-r1 jadetex
+>=dev-python/PyQt4-4.9.6-r2 script
+dev-lang/spidermonkey -debug
+app-doc/doxygen dot
+x11-libs/wxGTK -debug
+app-editors/nano -debug
+dev-libs/mpfs static-libs
+media-video/mplayer mmxext win32codecs directfb
+
+
+#for chromium
+#media-libs/mesa gles2                                                                                                       
+#dev-libs/libxml2 icu
+#dev-lang/php gd
+#media-video/ffmpeg opus

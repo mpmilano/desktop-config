@@ -1,0 +1,6 @@
+*/*::sabayon
+*/*::sabayon-distro
+*/*::lisp
+*/*::java
+virtual/linux-sources::gentoo
+>sci-mathematics/flint-2.3-r1

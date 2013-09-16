@@ -1,0 +1,32 @@
+#required by linux-sabayon (argument)
+sys-kernel/linux-sabayon  ~amd64
+sys-kernel/sabayon-sources ~amd64
+sys-kernel/genkernel-next ~amd64
+sys-kernel/linux-firmware ~amd64
+app-admin/eselect-bzimage ~amd64
+sys-devel/gcc ~amd64
+<dev-scheme/racket-5.3.12 ~amd64
+sys-devel/gcc **
+net-im/skype ~amd64
+app-emacs/quack ~amd64
+games-strategy/ufo-ai
+dev-util/eclipse-sdk-bin ~amd64
+dev-libs/log4cxx ~amd64
+sci-mathematics/coq ~amd64
+dev-python/pypy ~amd64
+sci-misc/z3 ~amd64
+games-emulation/dolphin-emu ~amd64
+dev-lang/ocaml ~amd64
+app-emacs/tuareg-mode ~amd64
+dev-ml/opam ~amd64
+
+=sys-kernel/linux-firmware-20130113 ~amd64
+x11-drivers/nvidia-drivers ~amd64
+x11-drivers/nvidia-userspace ~amd64
+
+dev-lang/rust ~amd64
+sci-mathematics/flint ~amd64
+
+app-emulation/winetricks ~amd64
+
+dev-util/adobe-air-sdk-bin ~amd64

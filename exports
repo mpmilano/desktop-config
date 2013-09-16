@@ -1,0 +1,4 @@
+# /etc/exports: NFS file systems being exported.  See exports(5).
+/usr/portage *
+/var/tmp/smartresults 192.168.1.105(rw,no_root_squash,sync)
+/var/tmp/swap 192.168.1.105(rw,no_root_squash,sync)
