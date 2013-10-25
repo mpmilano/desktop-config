@@ -12,10 +12,14 @@ x11-libs/wxGTK -debug
 app-editors/nano -debug
 dev-libs/mpfs static-libs
 media-video/mplayer mmxext win32codecs directfb
-
+app-text/acroread html nsplugin
 
 #for chromium
 #media-libs/mesa gles2                                                                                                       
 #dev-libs/libxml2 icu
 #dev-lang/php gd
 #media-video/ffmpeg opus
+
+
+#for fez!
+dev-dotnet/* -debug
